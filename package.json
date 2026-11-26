@@ -1,0 +1,10 @@
+{
+  "name": "andre",
+  "version": "1.0.0",
+  "private": true,
+  "main": "funcoes.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test funcoes.js"
+  }
+}
